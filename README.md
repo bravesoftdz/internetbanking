@@ -4,6 +4,7 @@ Tugas Besar Daspro
 total 17 fungsi&prosedur
 
 dibagi jadi 6 unit:
+
   unit DataTypes; {Penyimpan konstanta, variabel, tipe bentukan yang dibutuhkan}
   
   unit FileExtLoader; {Mengelola file eksternal yang dipakai dalam program}
@@ -16,6 +17,6 @@ dibagi jadi 6 unit:
   
   unit Transaction; {Mengelola fitur transaksi pada akun rekening}
     {NOTE: kurang penambahanAutoDebet
-    	masih banyak compile error }
+        masih banyak compile error }
   
   unit dateAndTime; {Penanggalan}
